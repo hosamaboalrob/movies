@@ -1,0 +1,1 @@
+The project is a movie viewing website. The project contains an admin control website page and the second page is a content display page. The data is stored in Local Storage and display it on the home page
